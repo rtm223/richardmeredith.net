@@ -1,1 +1,11 @@
-# Guess we just use the defaults?
+plugins:
+- jekyll-remote-theme 
+
+# Theme
+# look back to https://github.com/pages-themes/midnight for info on further customizations
+remote_theme: pages-themes/midnight@v0.2.0
+
+title: [The title of your site]
+tagline: [A very short description of your site's purpose, used as subtitle]
+description: [A short description of your site's purpose (e.g. for search engines)]
+show_downloads: false
